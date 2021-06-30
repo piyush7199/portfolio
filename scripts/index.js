@@ -7,6 +7,7 @@ index.$home = $('#home');
 index.$about=$('#about');
 index.$skills = $('#skills');
 index.$works = $('#works');
+index.$projects = $('#projects');
 index.$contact = $('#contact');
 index.$menuButton = $('#menuButton');
 index.$scrollDown = $('#scrollDown');
